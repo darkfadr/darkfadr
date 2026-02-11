@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Ashely
+
+[![My Skills](https://skillicons.dev/icons?i=apollo,graphql,bun,vite,react,nextjs,nestjs,prisma,postgres,redis,docker,cloudflare,aws,git,github,githubactions,html,css,js,ts,npm,java,kotlin)](https://skillicons.dev)
+
+I grow by sharing what I learn! I grew up in 🇭🇹, studied in 🇺🇸, travelled the 🌏 as a nomad more then 2 years, am currently learning Japanese full-time in 🇯🇵.
+
+- Blog: https://narcisse.dev/
+- LinkedIn: https://www.linkedin.com/in/anarcisse/
+
+![IMG_0300](https://github.com/user-attachments/assets/597b7093-e757-4b8a-8cd5-293ceede7115)
