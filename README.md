@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Ashely
 
-[![My Skills](https://skillicons.dev/icons?i=apollo,graphql,bun,vite,react,nextjs,nestjs,prisma,postgres,redis,docker,cloudflare,aws,git,github,githubactions,html,css,js,ts,npm,java,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apollo,graphql,ktor,jenkins,terraform,bun,vite,react,nextjs,nestjs,prisma,postgres,redis,docker,cloudflare,gcp,aws,git,github,githubactions,html,css,js,ts,npm,java,kotlin)](https://skillicons.dev)
 
 I grow by sharing what I learn! I grew up in 🇭🇹, studied in 🇺🇸, travelled the 🌏 as a nomad more then 2 years, am currently learning Japanese full-time in 🇯🇵.
 
