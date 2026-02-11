@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hey there 👋🏿
+
+# I'm Ashley Narcisse
+
+[![My Skills](https://skillicons.dev/icons?i=apollo,graphql,ktor,jenkins,terraform,bun,vite,react,nextjs,nestjs,prisma,postgres,redis,docker,cloudflare,gcp,aws,git,github,githubactions,html,css,js,ts,npm,java,kotlin)](https://skillicons.dev)
+
+I grow by sharing what I learn! 
+I grew up in 🇭🇹, studied in 🇺🇸, travelled the 🌏 as a nomad more then 2 years, am currently learning Japanese full-time in 🇯🇵.
+
+- Blog: https://narcisse.dev/
+- LinkedIn: https://www.linkedin.com/in/anarcisse/
+
 
 <!--
 **darkfadr/darkfadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# Ashely
-
-[![My Skills](https://skillicons.dev/icons?i=apollo,graphql,ktor,jenkins,terraform,bun,vite,react,nextjs,nestjs,prisma,postgres,redis,docker,cloudflare,gcp,aws,git,github,githubactions,html,css,js,ts,npm,java,kotlin)](https://skillicons.dev)
-
-I grow by sharing what I learn! I grew up in 🇭🇹, studied in 🇺🇸, travelled the 🌏 as a nomad more then 2 years, am currently learning Japanese full-time in 🇯🇵.
-
-- Blog: https://narcisse.dev/
-- LinkedIn: https://www.linkedin.com/in/anarcisse/
